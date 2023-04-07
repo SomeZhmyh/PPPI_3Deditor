@@ -28,5 +28,16 @@ namespace _3Deditor
 
         }
 
+        public void Undo()
+        {
+
+        }
+
+        public void Redo()
+        {
+
+        }
+
+
     }
 }
