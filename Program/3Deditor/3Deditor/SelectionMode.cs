@@ -8,6 +8,11 @@ namespace _3Deditor
 {
     internal class SelectionMode
     {
+        public void SelectVertex()
+        {
+
+        }
+
 
     }
 }
