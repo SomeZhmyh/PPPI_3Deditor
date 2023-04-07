@@ -8,6 +8,10 @@ namespace _3Deditor
 {
     internal class File
     {
+        public void CreateNewProject()
+        {
+
+        }
 
     }
 }
