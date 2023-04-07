@@ -33,5 +33,9 @@ namespace _3Deditor
 
         }
 
+        public void Cut()
+        {
+
+        }
     }
 }
