@@ -8,6 +8,20 @@ namespace _3Deditor
 {
     internal class ModelingTools
     {
+        public void Move()
+        {
+
+        }
+
+        public void Rotate()
+        {
+
+        }
+
+        public void Scale()
+        {
+
+        }
 
     }
 }
