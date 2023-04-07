@@ -8,6 +8,11 @@ namespace _3Deditor
 {
     internal class CreateTools
     {
+        public void AddPoint()
+        {
+
+        }
+
 
     }
 }
