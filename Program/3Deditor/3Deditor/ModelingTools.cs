@@ -23,5 +23,10 @@ namespace _3Deditor
 
         }
 
+        public void Bevel()
+        {
+
+        }
+
     }
 }
