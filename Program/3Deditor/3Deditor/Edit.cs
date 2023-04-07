@@ -8,6 +8,25 @@ namespace _3Deditor
 {
     internal class Edit
     {
+        public void Select()
+        {
+
+        }
+
+        public void Cut()
+        {
+
+        }
+
+        public void Copy()
+        {
+
+        }
+
+        public void Paste()
+        {
+
+        }
 
     }
 }
