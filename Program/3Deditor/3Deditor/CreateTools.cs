@@ -28,5 +28,9 @@ namespace _3Deditor
 
         }
 
+        public void AddRigg()
+        {
+
+        }
     }
 }
