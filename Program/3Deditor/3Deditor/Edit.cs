@@ -43,6 +43,16 @@ namespace _3Deditor
 
         }
 
+        public void Remove()
+        {
+
+        }
+
+        public void Hide()
+        {
+
+        }
+
 
 
     }
