@@ -13,5 +13,10 @@ namespace _3Deditor
 
         }
 
+        public void OpenProject()
+        {
+
+        }
+
     }
 }
