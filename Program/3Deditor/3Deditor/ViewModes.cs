@@ -8,6 +8,10 @@ namespace _3Deditor
 {
     internal class ViewModes
     {
+        public void Wireframe()
+        {
+
+        }
 
     }
 }
