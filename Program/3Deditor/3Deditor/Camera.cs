@@ -23,6 +23,15 @@ namespace _3Deditor
 
         }
 
+        public void Rotate()
+        {
+
+        }
+
+        public void AttachToObject()
+        {
+
+        }
 
     }
 }
