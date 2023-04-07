@@ -23,7 +23,10 @@ namespace _3Deditor
 
         }
 
+        public void SaveProjectAs()
+        {
 
+        }
 
     }
 }
