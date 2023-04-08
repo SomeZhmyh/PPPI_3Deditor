@@ -24,7 +24,7 @@ namespace _3Deditor
 
         public void Scale()
         {
-
+            // scaling
         }
 
         public void Bevel()
