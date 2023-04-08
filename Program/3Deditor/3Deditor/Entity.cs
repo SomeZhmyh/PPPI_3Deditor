@@ -13,5 +13,23 @@ namespace _3Deditor
         public float z;
         public string color;
         public string shape;
+
+        Entity(float x, float y, float z, string color, string shape)
+        {
+            this.x = x;
+            this.y = y;
+            this.z = z;
+            this.color = color;
+            this.shape = shape;
+        }
+
+        Entity()
+        {
+            this.x = 0;
+            this.y = 0;
+            this.z = 0;
+            this.color = "white";
+            this.shape = "cube";
+        }
     }
 }
