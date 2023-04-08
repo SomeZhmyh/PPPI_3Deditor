@@ -31,5 +31,15 @@ namespace _3Deditor
             this.color = "white";
             this.shape = "cube";
         }
+
+        public void SetColor(string color)
+        {
+            this.color = color;
+        }
+
+        public void SetShape(string shape)
+        {
+            this.shape = shape;
+        }
     }
 }
