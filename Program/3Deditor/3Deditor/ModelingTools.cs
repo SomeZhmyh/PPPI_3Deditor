@@ -29,7 +29,7 @@ namespace _3Deditor
 
         public void Bevel()
         {
-
+            // beveling
         }
 
         public void Extrude()
