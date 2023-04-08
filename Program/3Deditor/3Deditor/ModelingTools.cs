@@ -8,9 +8,12 @@ namespace _3Deditor
 {
     internal class ModelingTools
     {
-        public void Move()
+        
+        public void Move(Entity obj, float x, float y, float z)
         {
-
+            obj.x += x;
+            obj.y += y;
+            obj.z += z;
         }
 
         public void Rotate()
