@@ -16,9 +16,10 @@ namespace _3Deditor
             obj.z += z;
         }
 
-        public void Rotate()
+        public void Rotate(Entity obj, float x, float y)
         {
-
+            obj.x += x;
+            obj.y -= y;
         }
 
         public void Scale()
