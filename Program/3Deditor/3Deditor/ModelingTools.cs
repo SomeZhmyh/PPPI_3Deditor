@@ -8,34 +8,38 @@ namespace _3Deditor
 {
     internal class ModelingTools
     {
-        public void Move()
+        
+        public void Move(Entity obj, float x, float y, float z)
         {
-
+            obj.x += x;
+            obj.y += y;
+            obj.z += z;
         }
 
-        public void Rotate()
+        public void Rotate(Entity obj, float x, float y)
         {
-
+            obj.x += x;
+            obj.y -= y;
         }
 
-        public void Scale()
+        public void Scale(Entity obj)
         {
-
+            // scaling
         }
 
-        public void Bevel()
+        public void Bevel(Entity obj)
         {
-
+            // beveling
         }
 
-        public void Extrude()
+        public void Extrude(Entity obj)
         {
-
+            // extruding
         }
 
-        public void Cut()
+        public void Cut(Entity obj)
         {
-
+            // cutting
         }
     }
 }
