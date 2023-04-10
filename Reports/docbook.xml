@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<book>
+  <bookinfo>
+    <title>3D Editor</title>
+
+    <author>
+      <firstname>Бакалина</firstname>
+
+      <surname>Вероника</surname>
+
+      <affiliation>
+        <orgname>v.bakalina@mail.ru</orgname>
+      </affiliation>
+    </author>
+
+    <pubdate>09.04.2023</pubdate>
+  </bookinfo>
+
+  <chapter>
+    <title>Документация к 3D редактору</title>
+
+    <section>
+      <title>О программе</title>
+
+      <para>3d редактор, с реализацией не менее 20-ти программных средств доступных в 3ds Max / Maya / Cinema 4D.</para>
+
+      <para>Содержание</para>
+      <para>1. Модуль работы с файлом</para>
+      <para>2. Модуль управления камерой</para>
+      <para>3. Модуль редактирования</para>
+      <para>4. Модуль режимов выдления</para>
+      <para>5. Модуль инструментов редактирования объектов</para>
+      <para>6. Модуль инструментов создания объектов</para>
+      <para>7. Модуль режимов отображения</para>
+    </section>
+  </chapter>
+
+  <chapter>
+    <title>1. Файл</title>
+
+    <section>
+  <para>Создать новый проект; </para>
+  <para>Открыть существующий проект; </para>
+  <para>Сохранить проект. </para>
+
+    </section>
+
+    <section>
+      <title>2. Камера</title>
+
+      <para> Сдвинуть;</para>
+  <para>Приблизить/отдалить;</para>
+  <para>Повернуть;</para>
+  <para>Закрепить на объекте.</para>
+
+    </section>
+
+    <section>
+      <title>3. Редактирование</title>
+
+      <para>Выбрать;</para>
+  <para>Вырезать/копировать/вставить;</para>
+  <para>Отменить/повторить действие;</para>
+  <para>Сгруппировать объекты;</para>
+  <para>Удалить/скрыть;</para>
+  <para>Редактировать пивот (якорь).</para>
+
+    </section>
+
+    <section>
+      <title>4. Режимы выделения</title>
+
+      <para>Привязка к точкам;</para>
+  <para>Привязка к граням;</para>
+  <para>Привязка к полигонам.</para>
+
+    </section>
+
+    <section>
+      <title>5. Инструменты редактирования объектов</title>
+
+      <para>Переместить;</para>
+  <para>Повернуть;</para>
+  <para>Масштабировать;</para>
+  <para>Снять фаску;</para>
+  <para>Выдавить;</para>
+  <para>Добавить сечение.</para>
+
+    </section>
+
+        <section>
+      <title>6. Инструменты создания объектов</title>
+
+  <para>Создать точку;</para>
+  <para>Создать фигуру;</para>
+  <para>Создать кривую;</para>
+  <para>Создать анимацию;</para>
+  <para>Добавить риггинг (кость для анимации).</para>
+
+    </section>
+
+        <section>
+      <title>7. Режимы отображения</title>
+
+  <para>Каркасное отображение;</para>
+  <para>Отображение текстур;</para>
+  <para>Сглаживание.</para>
+
+    </section>
+  </chapter>
+</book>
